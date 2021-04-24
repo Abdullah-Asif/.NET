@@ -1,0 +1,104 @@
+﻿@*@model BitcoinPrice.Web.Models.ViewModel*@
+@{
+    ViewBag.Title = "Chart Page";
+}
+<br />
+<br />
+<div class="card-deck">
+
+    <div class="card bg-dark" style="width: 18rem;">
+        <div class="card-body">
+            <h4 class="card-title text-warning">Average EUR</h4>
+            <h3 class="card-text text-white">@ViewBag.avgEur</h3>
+        </div>
+    </div>
+    <br /><br />
+    <div class="card bg-dark text-white" style="width: 18rem;">
+        <div class="card-body">
+            <h4 class="card-title text-warning">Average USD</h4>
+            <h3 class="card-text text-white">@ViewBag.avgUsd</h3>
+        </div>
+    </div>
+    <br /> <br />
+    <div class="card bg-dark text-white" style="width: 18rem;">
+        <div class="card-body">
+            <h4 class="card-title text-warning">Average GBP</h4>
+            <h3 class="card-text text-white">@ViewBag.avgGbp</h3>
+        </div>
+    </div>
+</div>
+
+<br />
+
+<div class="card-deck">
+
+    <div class="card bg-danger " style="width: 18rem;">
+        <div class="card-body">
+            <h4 class="card-title text-warning">Minimum EUR</h4>
+            <h3 class="card-text text-white">@ViewBag.minEur</h3>
+        </div>
+    </div>
+    <br /><br />
+    <div class="card bg-danger text-white" style="width: 18rem;">
+        <div class="card-body">
+            <h4 class="card-title text-warning">Minimum USD</h4>
+            <h3 class="card-text text-white">@ViewBag.minUsd</h3>
+        </div>
+    </div>
+    <br /> <br />
+    <div class="card bg-danger text-white" style="width: 18rem;">
+        <div class="card-body">
+            <h4 class="card-title text-warning">Minimum GBP</h4>
+            <h3 class="card-text text-white">@ViewBag.minGbp</h3>
+        </div>
+    </div>
+</div>
+<br />
+<div class="card-deck">
+
+    <div class="card bg-success " style="width: 18rem;">
+        <div class="card-body">
+            <h4 class="card-title text-warning">Maximum EUR</h4>
+            <h3 class="card-text text-white">@ViewBag.maxEur</h3>
+        </div>
+    </div>
+    <br /><br />
+    <div class="card bg-success text-white" style="width: 18rem;">
+        <div class="card-body">
+            <h4 class="card-title text-warning">Maximum USD</h4>
+            <h3 class="card-text text-white">@ViewBag.maxUsd</h3>
+        </div>
+    </div>
+    <br /> <br />
+    <div class="card bg-success text-white" style="width: 18rem;">
+        <div class="card-body">
+            <h4 class="card-title text-warning">Maximum GBP</h4>
+            <h3 class="card-text text-white">@ViewBag.maxGbp</h3>
+        </div>
+    </div>
+</div>
+
+<br /> <br />
+    <div>
+        <table class="table table-hover table-dark font-weight-bolder">
+            <thead>
+                <tr class="table-danger font-weight-bold">
+                    <th scope="col">Time</th>
+                    <th scope="col">USD</th>
+                    <th scope="col">GBP</th>
+                    <th scope="col">EUR</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var data in Model)
+                {
+                    <tr>
+                        <td>@data.time.updatedISO</td>
+                        <td>@data.bpi.USD.rate</td>
+                        <td>@data.bpi.GBP.rate</td>
+                        <td>@data.bpi.EUR.rate</td>
+                    </tr>
+                }
+
+        </table>
+    </div>

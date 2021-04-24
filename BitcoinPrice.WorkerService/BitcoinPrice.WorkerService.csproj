@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>dotnet-BitcoinPrice.WorkerService-23D8A4FC-A7F0-4B56-B661-4D2594679B63</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="3.1.10" />
+	  <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.1.0" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.10" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.10" />
+		  <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.10" />
+		  <PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="3.1.10" />
+		  <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BitcoinPrice.Library\BitcoinPrice.Library.csproj" />
+  </ItemGroup>
+</Project>

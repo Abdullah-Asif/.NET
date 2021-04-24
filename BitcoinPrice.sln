@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BitcoinPrice.Web", "BitcoinPrice.Web\BitcoinPrice.Web.csproj", "{DE48A0A4-368E-48FD-A6C7-6D6F710B2FD5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BitcoinPrice.Library", "BitcoinPrice.Library\BitcoinPrice.Library.csproj", "{F6054170-8038-4E41-8199-DB09C51E9599}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BitcoinPrice.WorkerService", "BitcoinPrice.WorkerService\BitcoinPrice.WorkerService.csproj", "{CCB96590-F48D-45C4-87BB-2FE99B6C2C9A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F6054170-8038-4E41-8199-DB09C51E9599} = {F6054170-8038-4E41-8199-DB09C51E9599}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE48A0A4-368E-48FD-A6C7-6D6F710B2FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE48A0A4-368E-48FD-A6C7-6D6F710B2FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE48A0A4-368E-48FD-A6C7-6D6F710B2FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE48A0A4-368E-48FD-A6C7-6D6F710B2FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6054170-8038-4E41-8199-DB09C51E9599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6054170-8038-4E41-8199-DB09C51E9599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6054170-8038-4E41-8199-DB09C51E9599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6054170-8038-4E41-8199-DB09C51E9599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCB96590-F48D-45C4-87BB-2FE99B6C2C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB96590-F48D-45C4-87BB-2FE99B6C2C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB96590-F48D-45C4-87BB-2FE99B6C2C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB96590-F48D-45C4-87BB-2FE99B6C2C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {284809ED-C878-4569-854B-D43CB5F47DAA}
+	EndGlobalSection
+EndGlobal
