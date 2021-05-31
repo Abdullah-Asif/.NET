@@ -23,7 +23,7 @@ namespace Class4
            Console.WriteLine(y.Name);
            var product = new Product();
            */
-           /*
+           
            var path = @"E:\Edge download\SWE\Github\ASP.NET\Class4\config.txt";
            var configtext = File.ReadAllText(path);
            var initClassName = configtext.Split('=')[1].Trim();
@@ -42,7 +42,7 @@ namespace Class4
                    method.Invoke(initializerInstance, new object[0]); 
                }
            }
-           */
+           
         }   
     }
 }
