@@ -1,0 +1,16 @@
+e:\Edge download\SWE\Github\ASP.NET\Class3\obj\Debug\net5.0\Class3.csprojAssemblyReference.cache
+e:\Edge download\SWE\Github\ASP.NET\Class3\obj\Debug\net5.0\Class3.GeneratedMSBuildEditorConfig.editorconfig
+e:\Edge download\SWE\Github\ASP.NET\Class3\obj\Debug\net5.0\Class3.AssemblyInfoInputs.cache
+e:\Edge download\SWE\Github\ASP.NET\Class3\obj\Debug\net5.0\Class3.AssemblyInfo.cs
+e:\Edge download\SWE\Github\ASP.NET\Class3\obj\Debug\net5.0\Class3.csproj.CoreCompileInputs.cache
+E:\Edge download\SWE\Github\ASP.NET\Class3\bin\Debug\net5.0\Class3.exe
+E:\Edge download\SWE\Github\ASP.NET\Class3\bin\Debug\net5.0\Class3.deps.json
+E:\Edge download\SWE\Github\ASP.NET\Class3\bin\Debug\net5.0\Class3.runtimeconfig.json
+E:\Edge download\SWE\Github\ASP.NET\Class3\bin\Debug\net5.0\Class3.runtimeconfig.dev.json
+E:\Edge download\SWE\Github\ASP.NET\Class3\bin\Debug\net5.0\Class3.dll
+E:\Edge download\SWE\Github\ASP.NET\Class3\bin\Debug\net5.0\ref\Class3.dll
+E:\Edge download\SWE\Github\ASP.NET\Class3\bin\Debug\net5.0\Class3.pdb
+E:\Edge download\SWE\Github\ASP.NET\Class3\obj\Debug\net5.0\Class3.dll
+E:\Edge download\SWE\Github\ASP.NET\Class3\obj\Debug\net5.0\ref\Class3.dll
+E:\Edge download\SWE\Github\ASP.NET\Class3\obj\Debug\net5.0\Class3.pdb
+E:\Edge download\SWE\Github\ASP.NET\Class3\obj\Debug\net5.0\Class3.genruntimeconfig.cache
