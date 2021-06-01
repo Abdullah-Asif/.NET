@@ -1,0 +1,16 @@
+E:\Edge download\SWE\Github\ASP.NET\Class3-0\THREAD\bin\Debug\net5.0\THREAD.exe
+E:\Edge download\SWE\Github\ASP.NET\Class3-0\THREAD\bin\Debug\net5.0\THREAD.deps.json
+E:\Edge download\SWE\Github\ASP.NET\Class3-0\THREAD\bin\Debug\net5.0\THREAD.runtimeconfig.json
+E:\Edge download\SWE\Github\ASP.NET\Class3-0\THREAD\bin\Debug\net5.0\THREAD.runtimeconfig.dev.json
+E:\Edge download\SWE\Github\ASP.NET\Class3-0\THREAD\bin\Debug\net5.0\THREAD.dll
+E:\Edge download\SWE\Github\ASP.NET\Class3-0\THREAD\bin\Debug\net5.0\ref\THREAD.dll
+E:\Edge download\SWE\Github\ASP.NET\Class3-0\THREAD\bin\Debug\net5.0\THREAD.pdb
+E:\Edge download\SWE\Github\ASP.NET\Class3-0\THREAD\obj\Debug\net5.0\THREAD.csprojAssemblyReference.cache
+E:\Edge download\SWE\Github\ASP.NET\Class3-0\THREAD\obj\Debug\net5.0\THREAD.GeneratedMSBuildEditorConfig.editorconfig
+E:\Edge download\SWE\Github\ASP.NET\Class3-0\THREAD\obj\Debug\net5.0\THREAD.AssemblyInfoInputs.cache
+E:\Edge download\SWE\Github\ASP.NET\Class3-0\THREAD\obj\Debug\net5.0\THREAD.AssemblyInfo.cs
+E:\Edge download\SWE\Github\ASP.NET\Class3-0\THREAD\obj\Debug\net5.0\THREAD.csproj.CoreCompileInputs.cache
+E:\Edge download\SWE\Github\ASP.NET\Class3-0\THREAD\obj\Debug\net5.0\THREAD.dll
+E:\Edge download\SWE\Github\ASP.NET\Class3-0\THREAD\obj\Debug\net5.0\ref\THREAD.dll
+E:\Edge download\SWE\Github\ASP.NET\Class3-0\THREAD\obj\Debug\net5.0\THREAD.pdb
+E:\Edge download\SWE\Github\ASP.NET\Class3-0\THREAD\obj\Debug\net5.0\THREAD.genruntimeconfig.cache
