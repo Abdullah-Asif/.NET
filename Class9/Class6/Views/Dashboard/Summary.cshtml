@@ -1,0 +1,25 @@
+@model SummaryModel
+@{
+    ViewData["Title"] = "Summary";
+    Layout = "_newLayout";
+}
+@section Styles
+{
+    <style>
+        h1 {
+            color: yellow;
+        }
+    </style>
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>@Model.SummaryText</p>
+
+@section Scripts
+{
+    <script type="text/javascript">
+        alert("HELLO!!!")
+    </script>
+}
+
+<p>Use this page to detail your site's privacy policy.</p>
