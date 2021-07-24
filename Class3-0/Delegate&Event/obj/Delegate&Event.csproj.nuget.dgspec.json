@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Edge download\\SWE\\C Sharp\\Delegate&Event\\Delegate&Event.csproj": {}
+  },
+  "projects": {
+    "E:\\Edge download\\SWE\\C Sharp\\Delegate&Event\\Delegate&Event.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Edge download\\SWE\\C Sharp\\Delegate&Event\\Delegate&Event.csproj",
+        "projectName": "Delegate&Event",
+        "projectPath": "E:\\Edge download\\SWE\\C Sharp\\Delegate&Event\\Delegate&Event.csproj",
+        "packagesPath": "C:\\Users\\ASIF ABDULLAH\\.nuget\\packages\\",
+        "outputPath": "E:\\Edge download\\SWE\\C Sharp\\Delegate&Event\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ASIF ABDULLAH\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

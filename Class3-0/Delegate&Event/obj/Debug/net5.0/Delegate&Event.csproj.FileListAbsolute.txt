@@ -1,0 +1,16 @@
+E:\Edge download\SWE\C Sharp\Delegate&Event\bin\Debug\net5.0\Delegate&Event.exe
+E:\Edge download\SWE\C Sharp\Delegate&Event\bin\Debug\net5.0\Delegate&Event.deps.json
+E:\Edge download\SWE\C Sharp\Delegate&Event\bin\Debug\net5.0\Delegate&Event.runtimeconfig.json
+E:\Edge download\SWE\C Sharp\Delegate&Event\bin\Debug\net5.0\Delegate&Event.runtimeconfig.dev.json
+E:\Edge download\SWE\C Sharp\Delegate&Event\bin\Debug\net5.0\Delegate&Event.dll
+E:\Edge download\SWE\C Sharp\Delegate&Event\bin\Debug\net5.0\ref\Delegate&Event.dll
+E:\Edge download\SWE\C Sharp\Delegate&Event\bin\Debug\net5.0\Delegate&Event.pdb
+E:\Edge download\SWE\C Sharp\Delegate&Event\obj\Debug\net5.0\Delegate&Event.csprojAssemblyReference.cache
+E:\Edge download\SWE\C Sharp\Delegate&Event\obj\Debug\net5.0\Delegate&Event.GeneratedMSBuildEditorConfig.editorconfig
+E:\Edge download\SWE\C Sharp\Delegate&Event\obj\Debug\net5.0\Delegate&Event.AssemblyInfoInputs.cache
+E:\Edge download\SWE\C Sharp\Delegate&Event\obj\Debug\net5.0\Delegate&Event.AssemblyInfo.cs
+E:\Edge download\SWE\C Sharp\Delegate&Event\obj\Debug\net5.0\Delegate&Event.csproj.CoreCompileInputs.cache
+E:\Edge download\SWE\C Sharp\Delegate&Event\obj\Debug\net5.0\Delegate&Event.dll
+E:\Edge download\SWE\C Sharp\Delegate&Event\obj\Debug\net5.0\ref\Delegate&Event.dll
+E:\Edge download\SWE\C Sharp\Delegate&Event\obj\Debug\net5.0\Delegate&Event.pdb
+E:\Edge download\SWE\C Sharp\Delegate&Event\obj\Debug\net5.0\Delegate&Event.genruntimeconfig.cache
