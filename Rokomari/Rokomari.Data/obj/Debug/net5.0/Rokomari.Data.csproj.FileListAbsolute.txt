@@ -1,0 +1,12 @@
+D:\Code\AspNET\.Net\Rokomari\Rokomari\Rokomari.Data\bin\Debug\net5.0\Rokomari.Data.deps.json
+D:\Code\AspNET\.Net\Rokomari\Rokomari\Rokomari.Data\bin\Debug\net5.0\Rokomari.Data.dll
+D:\Code\AspNET\.Net\Rokomari\Rokomari\Rokomari.Data\bin\Debug\net5.0\ref\Rokomari.Data.dll
+D:\Code\AspNET\.Net\Rokomari\Rokomari\Rokomari.Data\bin\Debug\net5.0\Rokomari.Data.pdb
+D:\Code\AspNET\.Net\Rokomari\Rokomari\Rokomari.Data\obj\Debug\net5.0\Rokomari.Data.csproj.AssemblyReference.cache
+D:\Code\AspNET\.Net\Rokomari\Rokomari\Rokomari.Data\obj\Debug\net5.0\Rokomari.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\AspNET\.Net\Rokomari\Rokomari\Rokomari.Data\obj\Debug\net5.0\Rokomari.Data.AssemblyInfoInputs.cache
+D:\Code\AspNET\.Net\Rokomari\Rokomari\Rokomari.Data\obj\Debug\net5.0\Rokomari.Data.AssemblyInfo.cs
+D:\Code\AspNET\.Net\Rokomari\Rokomari\Rokomari.Data\obj\Debug\net5.0\Rokomari.Data.csproj.CoreCompileInputs.cache
+D:\Code\AspNET\.Net\Rokomari\Rokomari\Rokomari.Data\obj\Debug\net5.0\Rokomari.Data.dll
+D:\Code\AspNET\.Net\Rokomari\Rokomari\Rokomari.Data\obj\Debug\net5.0\ref\Rokomari.Data.dll
+D:\Code\AspNET\.Net\Rokomari\Rokomari\Rokomari.Data\obj\Debug\net5.0\Rokomari.Data.pdb

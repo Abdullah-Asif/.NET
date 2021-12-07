@@ -1,0 +1,59 @@
+2021-12-02 10:58:05.635 +06:00 [INF] Application Starting up
+2021-12-02 11:03:02.869 +06:00 [INF] Application Starting up
+2021-12-02 11:06:54.399 +06:00 [INF] Application Starting up
+2021-12-02 12:53:46.680 +06:00 [INF] Application Starting up
+2021-12-02 12:54:47.450 +06:00 [INF] Application Starting up
+2021-12-02 18:24:39.003 +06:00 [INF] Application Starting up
+2021-12-02 18:30:07.794 +06:00 [INF] Application Starting up
+2021-12-02 18:31:08.284 +06:00 [INF] Application Starting up
+2021-12-02 18:32:21.663 +06:00 [INF] Application Starting up
+2021-12-02 18:33:33.364 +06:00 [INF] Application Starting up
+2021-12-02 18:42:33.191 +06:00 [INF] Application Starting up
+2021-12-02 18:53:07.195 +06:00 [INF] Application Starting up
+2021-12-02 18:53:42.505 +06:00 [ERR] An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Rokomari.Web.Areas.Admin.Models.BookListModel.<>c.<GetBooks>b__8_0(Book record) in D:\Code\AspNET\.Net\Rokomari\Rokomari\Rokomari.Web\Areas\Admin\Models\BookListModel.cs:line 44
+   at System.Linq.Enumerable.SelectListIterator`2.ToArray()
+   at Rokomari.Web.Areas.Admin.Models.BookListModel.GetBooks(DataTablesAjaxRequestModel dataTablesModel) in D:\Code\AspNET\.Net\Rokomari\Rokomari\Rokomari.Web\Areas\Admin\Models\BookListModel.cs:line 39
+   at Rokomari.Web.Areas.Admin.Controllers.BookController.GetBooksData() in D:\Code\AspNET\.Net\Rokomari\Rokomari\Rokomari.Web\Areas\Admin\Controllers\BookController.cs:line 38
+   at lambda_method622(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.MigrationsEndPointMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-12-02 18:53:54.048 +06:00 [ERR] An exception occurred while calculating the database error page content. Skipping display of the database error page.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.ThrowResponseAlreadyStartedException(String name)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.Microsoft.AspNetCore.Http.Features.IHttpResponseFeature.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.Views.DatabaseErrorPage.ExecuteAsync()
+   at Microsoft.Extensions.RazorViews.BaseView.ExecuteAsync(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseDeveloperPageExceptionFilter.HandleExceptionAsync(ErrorContext errorContext, Func`2 next)
+2021-12-02 18:54:13.433 +06:00 [INF] Application Starting up
+2021-12-02 20:33:12.390 +06:00 [INF] Application Starting up
+2021-12-02 20:54:40.910 +06:00 [INF] Application Starting up
+2021-12-02 20:58:03.888 +06:00 [INF] Application Starting up
+2021-12-02 21:08:55.603 +06:00 [INF] Application Starting up
+2021-12-02 21:10:42.788 +06:00 [INF] Application Starting up
+2021-12-02 21:13:53.905 +06:00 [INF] Application Starting up
+2021-12-02 21:15:20.346 +06:00 [INF] Application Starting up
+2021-12-02 21:19:38.597 +06:00 [INF] Application Starting up
