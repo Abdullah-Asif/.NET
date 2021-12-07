@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VMaUYA/ne/SeTnHoOgNkldvS7LXSnjssAvM0EE2ZcNZCyGAsAyFd0gKbjVxiQjqcgG5iSFlVgr320bkQ0X8m4w==",
+  "dgSpecHash": "tyY6AZniRZsb6WGaUW/UDIHXjN+as2KMzeuKpTgR/Cpjk3cyVP0XoUBuVqzvCeKtM7xf2Nn4zGFBt5UaMpOGqA==",
   "success": true,
-  "projectFilePath": "D:\\Code\\AspNET\\.Net\\ASP.NET\\Rokomari\\Rokomari.Infrastructure\\Rokomari.Infrastructure.csproj",
+  "projectFilePath": "D:\\Code\\AspNET\\.Net\\Rokomari\\Rokomari\\Rokomari.Infrastructure\\Rokomari.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asifa\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
     "C:\\Users\\asifa\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",

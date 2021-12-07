@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\AspNET\\.Net\\ASP.NET\\Rokomari\\Rokomari.Web\\Rokomari.Web.csproj": {}
+    "D:\\Code\\AspNET\\.Net\\Rokomari\\Rokomari\\Rokomari.Web\\Rokomari.Web.csproj": {}
   },
   "projects": {
-    "D:\\Code\\AspNET\\.Net\\ASP.NET\\Rokomari\\Rokomari.Data\\Rokomari.Data.csproj": {
+    "D:\\Code\\AspNET\\.Net\\Rokomari\\Rokomari\\Rokomari.Data\\Rokomari.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\AspNET\\.Net\\ASP.NET\\Rokomari\\Rokomari.Data\\Rokomari.Data.csproj",
+        "projectUniqueName": "D:\\Code\\AspNET\\.Net\\Rokomari\\Rokomari\\Rokomari.Data\\Rokomari.Data.csproj",
         "projectName": "Rokomari.Data",
-        "projectPath": "D:\\Code\\AspNET\\.Net\\ASP.NET\\Rokomari\\Rokomari.Data\\Rokomari.Data.csproj",
+        "projectPath": "D:\\Code\\AspNET\\.Net\\Rokomari\\Rokomari\\Rokomari.Data\\Rokomari.Data.csproj",
         "packagesPath": "C:\\Users\\asifa\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\AspNET\\.Net\\ASP.NET\\Rokomari\\Rokomari.Data\\obj\\",
+        "outputPath": "D:\\Code\\AspNET\\.Net\\Rokomari\\Rokomari\\Rokomari.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -72,14 +72,14 @@
         }
       }
     },
-    "D:\\Code\\AspNET\\.Net\\ASP.NET\\Rokomari\\Rokomari.Delivery\\Rokomari.Delivery.csproj": {
+    "D:\\Code\\AspNET\\.Net\\Rokomari\\Rokomari\\Rokomari.Delivery\\Rokomari.Delivery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\AspNET\\.Net\\ASP.NET\\Rokomari\\Rokomari.Delivery\\Rokomari.Delivery.csproj",
+        "projectUniqueName": "D:\\Code\\AspNET\\.Net\\Rokomari\\Rokomari\\Rokomari.Delivery\\Rokomari.Delivery.csproj",
         "projectName": "Rokomari.Delivery",
-        "projectPath": "D:\\Code\\AspNET\\.Net\\ASP.NET\\Rokomari\\Rokomari.Delivery\\Rokomari.Delivery.csproj",
+        "projectPath": "D:\\Code\\AspNET\\.Net\\Rokomari\\Rokomari\\Rokomari.Delivery\\Rokomari.Delivery.csproj",
         "packagesPath": "C:\\Users\\asifa\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\AspNET\\.Net\\ASP.NET\\Rokomari\\Rokomari.Delivery\\obj\\",
+        "outputPath": "D:\\Code\\AspNET\\.Net\\Rokomari\\Rokomari\\Rokomari.Delivery\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -100,8 +100,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Code\\AspNET\\.Net\\ASP.NET\\Rokomari\\Rokomari.Data\\Rokomari.Data.csproj": {
-                "projectPath": "D:\\Code\\AspNET\\.Net\\ASP.NET\\Rokomari\\Rokomari.Data\\Rokomari.Data.csproj"
+              "D:\\Code\\AspNET\\.Net\\Rokomari\\Rokomari\\Rokomari.Data\\Rokomari.Data.csproj": {
+                "projectPath": "D:\\Code\\AspNET\\.Net\\Rokomari\\Rokomari\\Rokomari.Data\\Rokomari.Data.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "D:\\Code\\AspNET\\.Net\\ASP.NET\\Rokomari\\Rokomari.Infrastructure\\Rokomari.Infrastructure.csproj": {
+    "D:\\Code\\AspNET\\.Net\\Rokomari\\Rokomari\\Rokomari.Infrastructure\\Rokomari.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\AspNET\\.Net\\ASP.NET\\Rokomari\\Rokomari.Infrastructure\\Rokomari.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Code\\AspNET\\.Net\\Rokomari\\Rokomari\\Rokomari.Infrastructure\\Rokomari.Infrastructure.csproj",
         "projectName": "Rokomari.Infrastructure",
-        "projectPath": "D:\\Code\\AspNET\\.Net\\ASP.NET\\Rokomari\\Rokomari.Infrastructure\\Rokomari.Infrastructure.csproj",
+        "projectPath": "D:\\Code\\AspNET\\.Net\\Rokomari\\Rokomari\\Rokomari.Infrastructure\\Rokomari.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\asifa\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\AspNET\\.Net\\ASP.NET\\Rokomari\\Rokomari.Infrastructure\\obj\\",
+        "outputPath": "D:\\Code\\AspNET\\.Net\\Rokomari\\Rokomari\\Rokomari.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -220,14 +220,14 @@
         }
       }
     },
-    "D:\\Code\\AspNET\\.Net\\ASP.NET\\Rokomari\\Rokomari.Web\\Rokomari.Web.csproj": {
+    "D:\\Code\\AspNET\\.Net\\Rokomari\\Rokomari\\Rokomari.Web\\Rokomari.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\AspNET\\.Net\\ASP.NET\\Rokomari\\Rokomari.Web\\Rokomari.Web.csproj",
+        "projectUniqueName": "D:\\Code\\AspNET\\.Net\\Rokomari\\Rokomari\\Rokomari.Web\\Rokomari.Web.csproj",
         "projectName": "Rokomari.Web",
-        "projectPath": "D:\\Code\\AspNET\\.Net\\ASP.NET\\Rokomari\\Rokomari.Web\\Rokomari.Web.csproj",
+        "projectPath": "D:\\Code\\AspNET\\.Net\\Rokomari\\Rokomari\\Rokomari.Web\\Rokomari.Web.csproj",
         "packagesPath": "C:\\Users\\asifa\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\AspNET\\.Net\\ASP.NET\\Rokomari\\Rokomari.Web\\obj\\",
+        "outputPath": "D:\\Code\\AspNET\\.Net\\Rokomari\\Rokomari\\Rokomari.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -248,11 +248,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Code\\AspNET\\.Net\\ASP.NET\\Rokomari\\Rokomari.Delivery\\Rokomari.Delivery.csproj": {
-                "projectPath": "D:\\Code\\AspNET\\.Net\\ASP.NET\\Rokomari\\Rokomari.Delivery\\Rokomari.Delivery.csproj"
+              "D:\\Code\\AspNET\\.Net\\Rokomari\\Rokomari\\Rokomari.Delivery\\Rokomari.Delivery.csproj": {
+                "projectPath": "D:\\Code\\AspNET\\.Net\\Rokomari\\Rokomari\\Rokomari.Delivery\\Rokomari.Delivery.csproj"
               },
-              "D:\\Code\\AspNET\\.Net\\ASP.NET\\Rokomari\\Rokomari.Infrastructure\\Rokomari.Infrastructure.csproj": {
-                "projectPath": "D:\\Code\\AspNET\\.Net\\ASP.NET\\Rokomari\\Rokomari.Infrastructure\\Rokomari.Infrastructure.csproj"
+              "D:\\Code\\AspNET\\.Net\\Rokomari\\Rokomari\\Rokomari.Infrastructure\\Rokomari.Infrastructure.csproj": {
+                "projectPath": "D:\\Code\\AspNET\\.Net\\Rokomari\\Rokomari\\Rokomari.Infrastructure\\Rokomari.Infrastructure.csproj"
               }
             }
           }
