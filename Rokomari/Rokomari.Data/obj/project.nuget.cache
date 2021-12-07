@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lqIHJ+XYWpOv+3qoe7wGuVB57adiy516LdR7VzzrCWHf7Oix2B6vJXhPo0gFuOkWr7klq1iM62ejvkwv4vVNRQ==",
+  "dgSpecHash": "VqJH7UJaY5qUu3CWjrOt+Tl31+SS5S8AhP5oqSukJiiKtX0di+aB++Xj9XJSh6g8D/GaK3sRPgvzrG1tsaVFLQ==",
   "success": true,
-  "projectFilePath": "D:\\Code\\AspNET\\.Net\\Rokomari\\Rokomari\\Rokomari.Data\\Rokomari.Data.csproj",
+  "projectFilePath": "D:\\Code\\AspNET\\.Net\\ASP.NET\\Rokomari\\Rokomari.Data\\Rokomari.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asifa\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\asifa\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
