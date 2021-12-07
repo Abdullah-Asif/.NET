@@ -82,3 +82,5 @@ ClientConnectionId:7d19e132-ffbe-426f-a437-d11f9aa1550d
 Error Number:208,State:1,Class:16
 2021-12-07 14:24:00.875 +06:00 [INF] User created a new account with password.
 2021-12-07 14:28:00.596 +06:00 [INF] User logged in.
+2021-12-07 14:48:48.061 +06:00 [INF] Application Starting up
+2021-12-07 14:49:19.212 +06:00 [INF] User logged out.
