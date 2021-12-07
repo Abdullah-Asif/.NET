@@ -12,3 +12,17 @@ D:\Code\AspNET\.Net\Rokomari\Rokomari\Rokomari.Delivery\obj\Debug\net5.0\Rokomar
 D:\Code\AspNET\.Net\Rokomari\Rokomari\Rokomari.Delivery\obj\Debug\net5.0\Rokomari.Delivery.dll
 D:\Code\AspNET\.Net\Rokomari\Rokomari\Rokomari.Delivery\obj\Debug\net5.0\ref\Rokomari.Delivery.dll
 D:\Code\AspNET\.Net\Rokomari\Rokomari\Rokomari.Delivery\obj\Debug\net5.0\Rokomari.Delivery.pdb
+D:\Code\AspNET\.Net\ASP.NET\Rokomari\Rokomari.Delivery\bin\Debug\net5.0\Rokomari.Delivery.deps.json
+D:\Code\AspNET\.Net\ASP.NET\Rokomari\Rokomari.Delivery\bin\Debug\net5.0\Rokomari.Delivery.dll
+D:\Code\AspNET\.Net\ASP.NET\Rokomari\Rokomari.Delivery\bin\Debug\net5.0\ref\Rokomari.Delivery.dll
+D:\Code\AspNET\.Net\ASP.NET\Rokomari\Rokomari.Delivery\bin\Debug\net5.0\Rokomari.Delivery.pdb
+D:\Code\AspNET\.Net\ASP.NET\Rokomari\Rokomari.Delivery\bin\Debug\net5.0\Rokomari.Data.dll
+D:\Code\AspNET\.Net\ASP.NET\Rokomari\Rokomari.Delivery\bin\Debug\net5.0\Rokomari.Data.pdb
+D:\Code\AspNET\.Net\ASP.NET\Rokomari\Rokomari.Delivery\obj\Debug\net5.0\Rokomari.Delivery.csproj.AssemblyReference.cache
+D:\Code\AspNET\.Net\ASP.NET\Rokomari\Rokomari.Delivery\obj\Debug\net5.0\Rokomari.Delivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\AspNET\.Net\ASP.NET\Rokomari\Rokomari.Delivery\obj\Debug\net5.0\Rokomari.Delivery.AssemblyInfoInputs.cache
+D:\Code\AspNET\.Net\ASP.NET\Rokomari\Rokomari.Delivery\obj\Debug\net5.0\Rokomari.Delivery.AssemblyInfo.cs
+D:\Code\AspNET\.Net\ASP.NET\Rokomari\Rokomari.Delivery\obj\Debug\net5.0\Rokomari.Delivery.csproj.CoreCompileInputs.cache
+D:\Code\AspNET\.Net\ASP.NET\Rokomari\Rokomari.Delivery\obj\Debug\net5.0\Rokomari.Delivery.dll
+D:\Code\AspNET\.Net\ASP.NET\Rokomari\Rokomari.Delivery\obj\Debug\net5.0\ref\Rokomari.Delivery.dll
+D:\Code\AspNET\.Net\ASP.NET\Rokomari\Rokomari.Delivery\obj\Debug\net5.0\Rokomari.Delivery.pdb
